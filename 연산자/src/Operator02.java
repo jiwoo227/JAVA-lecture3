@@ -12,5 +12,6 @@ public class Operator02 {
         }
 
         System.out.print(b2);
+
     }
 }
