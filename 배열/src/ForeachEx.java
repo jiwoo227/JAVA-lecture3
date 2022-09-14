@@ -10,5 +10,6 @@ public class ForeachEx {
         for(int value:arr){ //(받을 타입 : 출력하고 싶은 자료구조)
             System.out.println(value);
         }
+
     }
 }
