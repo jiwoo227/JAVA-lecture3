@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/클래스와 객체/class and object.iml" filepath="$PROJECT_DIR$/클래스와 객체/class and object.iml" />
       <module fileurl="file://$PROJECT_DIR$/조건문/conditional.iml" filepath="$PROJECT_DIR$/조건문/conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/상속/heritor.iml" filepath="$PROJECT_DIR$/상속/heritor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/인터페이스/interface.iml" filepath="$PROJECT_DIR$/인터페이스/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/반복문/loop.iml" filepath="$PROJECT_DIR$/반복문/loop.iml" />
     </modules>
   </component>
