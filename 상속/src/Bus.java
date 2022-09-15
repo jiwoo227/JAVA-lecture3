@@ -1,8 +1,5 @@
 public class Bus extends Car{
-
-
-    public void run(){
-        super.run();
-        System.out.println("Bus의 run메소드");
+    public void pangpang(){
+        System.out.println("빵빵");
     }
 }
