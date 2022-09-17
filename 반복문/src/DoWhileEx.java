@@ -11,5 +11,7 @@ public class DoWhileEx {
             System.out.println("입력받은값" + value);
         }while(value != 10);
         System.out.println("반복문 종료");
+
+
     }
 }
